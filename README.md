@@ -133,6 +133,3 @@ Required fields:
 * Match Number -> match_number
 * Reason -> reason
 * Trading Mode, Transaction Category, Algorithm Indicator -> mmt
-
-
-You can copy-paste this code directly into your `README.md` file for GitHub. Let me know if you need further adjustments!
